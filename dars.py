@@ -1,2 +1,3 @@
-ism = "miryoqub"
-yosh = "14"
+kg = 13
+
+
