@@ -1,2 +1,2 @@
-isim = "muhamadiso"
-print(isim)
+ovqat = "osh"
+print(ovqat)
