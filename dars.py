@@ -1,2 +1,2 @@
-ovqat = "osh"
-print(ovqat)
+vaqit = 12
+print(vaqit)
