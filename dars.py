@@ -1,2 +1,2 @@
-kasall = "shamollagan"
-print(kasall)
+mashina  = "trekker"
+print(mashina)
