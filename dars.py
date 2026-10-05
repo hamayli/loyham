@@ -1,2 +1,2 @@
-folyat = "maktab"
-print(folyat)
+davlatlar = "O'zbegiston, Rossiya, Germanya ..."
+print(davlatlar)
