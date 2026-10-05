@@ -1,2 +1,2 @@
-dostlarim ="Abdurahim, Yunisali, Oyatillo"
-print(dostlarim)
+novitbug ="acer"
+print(novitbug)
