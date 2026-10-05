@@ -1,2 +1,2 @@
-novitbug ="acer"
-print(novitbug)
+joylashuvim = "jiydali M F Y"
+print(joylashuvim)
