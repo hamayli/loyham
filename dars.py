@@ -1,2 +1,2 @@
-hamkorlar = "Bekent, Frontend"
-print(hamkorlar)
+dostlarim ="Abdurahim, Yunisali, Oyatillo"
+print(dostlarim)
