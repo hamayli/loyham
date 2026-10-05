@@ -1,4 +1,4 @@
-top = "fudbo'l to'p"
-print(top)
-print(top.upper())
-print(top.lower())
+bot = "sozanda bo't"
+print(bot)
+print(bot)
+print(bot)
