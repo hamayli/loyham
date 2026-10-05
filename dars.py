@@ -1,2 +1,2 @@
-mashina  = "trekker"
-print(mashina)
+boylar  = "ko'p"
+print(boylar)
