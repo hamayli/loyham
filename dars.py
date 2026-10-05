@@ -1,2 +1,4 @@
-boylar  = "ko'p"
-print(boylar)
+top = "fudbo'l to'p"
+print(top)
+print(top.upper())
+print(top.lower())
