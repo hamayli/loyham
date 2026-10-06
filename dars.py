@@ -1,2 +1,2 @@
-son = 18
-print(son)
+s = "miryoqub"
+print(s)
