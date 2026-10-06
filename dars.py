@@ -1,2 +1,2 @@
-davlatlar = "O'zbegiston, Rossiya, Germanya ..."
-print(davlatlar)
+son = 18
+print(son)
